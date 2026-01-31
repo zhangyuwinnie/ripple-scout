@@ -2,7 +2,7 @@
   "NVDA": {
     "sector": "AI Compute / GPU",
     "kpi_to_watch": "Purchase Commitments / Inventory",
-    "neighbors": ["MU", "SNDK", "VRT", "SMCI", "AMKR", "MRVL", "ALTR"],
+    "neighbors": ["MU", "SNDK", "VRT", "SMCI", "AMKR", "MRVL", "AEHR"],
     "ripple_logic": "显卡生产需要存储(HBM)、散热设备、先进封装以及高速连接芯片。"
   },
   "TSLA": {
@@ -68,7 +68,7 @@
   "AMZN": {
     "sector": "Logistics / AWS",
     "kpi_to_watch": "AWS Capex / Warehouse Automation Spend",
-    "neighbors": ["SYNA", "OMRN", "FDX", "RIVN", "STG"],
+    "neighbors": ["SYNA", "TRMB", "FDX", "RIVN", "STG"],
     "ripple_logic": "物流自动化与云扩张利好传感器芯片、仓储机器人组件及第三方物流技术。"
   }
 }
