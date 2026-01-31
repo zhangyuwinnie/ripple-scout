@@ -1,0 +1,74 @@
+{
+  "NVDA": {
+    "sector": "AI Compute / GPU",
+    "kpi_to_watch": "Purchase Commitments / Inventory",
+    "neighbors": ["MU", "SNDK", "VRT", "SMCI", "AMKR", "MRVL", "ALTR"],
+    "ripple_logic": "显卡生产需要存储(HBM)、散热设备、先进封装以及高速连接芯片。"
+  },
+  "TSLA": {
+    "sector": "Physical AI / EV",
+    "kpi_to_watch": "Optimus Production Volume / FSD Version Release",
+    "neighbors": ["TER", "ON", "ALB", "LIDR", "AEVA", "STM", "MP"],
+    "ripple_logic": "机器人与自动驾驶带动功率半导体(SiC)、激光雷达、稀土永磁及测试设备。"
+  },
+  "META": {
+    "sector": "Social / Open AI Ecosystem",
+    "kpi_to_watch": "Capex Guidance (Infrastructure)",
+    "neighbors": ["ANET", "AAOI", "DELL", "SMCI", "COHR", "EQIX"],
+    "ripple_logic": "开源模型爆发带动数据中心交换机、光模块以及高密度服务器的需求。"
+  },
+  "MSFT": {
+    "sector": "Cloud / Software",
+    "kpi_to_watch": "Azure Growth / AI Capex",
+    "neighbors": ["PLTR", "CRWD", "ANET", "VRT", "MOD", "STLD"],
+    "ripple_logic": "云端扩张带动网络架构、散热系统、网络安全以及建设用钢材(数据中心框架)。"
+  },
+  "TSM": {
+    "sector": "Foundry",
+    "kpi_to_watch": "Monthly Revenue (10th of each month)",
+    "neighbors": ["ASML", "AMAT", "LRCX", "KLAC", "ASX", "MKSI"],
+    "ripple_logic": "晶圆出货量是所有下游硬件的先导指标，同时带动半导体设备商。"
+  },
+  "AAPL": {
+    "sector": "Edge AI / Consumer Electronics",
+    "kpi_to_watch": "iPhone/Mac Inventory Levels",
+    "neighbors": ["CRUS", "LITE", "TTMI", "SWKS", "QRVO", "DSY"],
+    "ripple_logic": "端侧AI升级带动声学芯片、光学镜头、柔性电路板及射频前端。"
+  },
+  "GOOGL": {
+    "sector": "Search / Custom AI Chips (TPU)",
+    "kpi_to_watch": "Cloud Capex / TPU Deployment",
+    "neighbors": ["AVGO", "FN", "MOD", "WOLF", "AMBA"],
+    "ripple_logic": "自研芯片路线带动定制化ASIC设计合作伙伴及特定的光纤连接技术。"
+  },
+  "CEG": {
+    "sector": "Nuclear / Energy",
+    "kpi_to_watch": "New Power Purchase Agreements (PPA)",
+    "neighbors": ["VST", "PWR", "HUBB", "FCX", "HWM", "ETN"],
+    "ripple_logic": "核能协议签署预示着电网更新、变压器需求、铜矿消耗及重型工业组件爆发。"
+  },
+  "AVGO": {
+    "sector": "Connectivity / Networking",
+    "kpi_to_watch": "Networking Revenue Growth",
+    "neighbors": ["TEL", "APH", "COHR", "LUNA", "KEYS"],
+    "ripple_logic": "高速网络需求直接利好连接器、光纤收发器及测试仪器供应商。"
+  },
+  "PLTR": {
+    "sector": "AI Software / Decision",
+    "kpi_to_watch": "Commercial Customer Growth",
+    "neighbors": ["C3AI", "OKTA", "SNOW", "PATH", "MSTR"],
+    "ripple_logic": "软件落地成功预示着企业对云端存储、自动化工作流及网络安全支出的增加。"
+  },
+  "TER": {
+    "sector": "Robotics / Semi Test",
+    "kpi_to_watch": "Industrial Automation Bookings",
+    "neighbors": ["CGNX", "ROK", "HDRIF", "ISRG", "ZBRA"],
+    "ripple_logic": "协作机器人渗透率提升利好机器视觉、减速器、工业自动化及扫码识别硬件。"
+  },
+  "AMZN": {
+    "sector": "Logistics / AWS",
+    "kpi_to_watch": "AWS Capex / Warehouse Automation Spend",
+    "neighbors": ["SYNA", "OMRN", "FDX", "RIVN", "STG"],
+    "ripple_logic": "物流自动化与云扩张利好传感器芯片、仓储机器人组件及第三方物流技术。"
+  }
+}
