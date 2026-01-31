@@ -1,4 +1,4 @@
-# AI Alpha Scout (Ripple Scout v1.0)
+# Ripple Scout v1.0
 
 Monitoring system that captures "Ripple Effects" in the supply chain. It tracks "Core" stocks (e.g., NVDA) and scans their downstream "Neighbors" (e.g., SMCI, VRT) for technical breakouts (VCP, Spark).
 
