@@ -1,4 +1,10 @@
 {
+  "AMD": {
+    "sector": "AI Compute / CPU+GPU",
+    "kpi_to_watch": "Data Center Revenue / MI300 Shipments",
+    "neighbors": ["MU", "DELL", "HPE", "LSCC", "ANET", "SMCI"],
+    "ripple_logic": "AI推理芯片(MI300)带动服务器、内存、网络设备及FPGA加速器需求。"
+  },
   "NVDA": {
     "sector": "AI Compute / GPU",
     "kpi_to_watch": "Purchase Commitments / Inventory",
@@ -32,7 +38,7 @@
   "AAPL": {
     "sector": "Edge AI / Consumer Electronics",
     "kpi_to_watch": "iPhone/Mac Inventory Levels",
-    "neighbors": ["CRUS", "LITE", "TTMI", "SWKS", "QRVO", "DSY"],
+    "neighbors": ["CRUS", "LITE", "TTMI", "SWKS", "QRVO", "OLED"],
     "ripple_logic": "端侧AI升级带动声学芯片、光学镜头、柔性电路板及射频前端。"
   },
   "GOOGL": {
@@ -56,19 +62,19 @@
   "PLTR": {
     "sector": "AI Software / Decision",
     "kpi_to_watch": "Commercial Customer Growth",
-    "neighbors": ["C3AI", "OKTA", "SNOW", "PATH", "MSTR"],
+    "neighbors": ["AI", "OKTA", "SNOW", "PATH", "MSTR"],
     "ripple_logic": "软件落地成功预示着企业对云端存储、自动化工作流及网络安全支出的增加。"
   },
   "TER": {
     "sector": "Robotics / Semi Test",
     "kpi_to_watch": "Industrial Automation Bookings",
-    "neighbors": ["CGNX", "ROK", "HDRIF", "ISRG", "ZBRA"],
+    "neighbors": ["CGNX", "ROK", "ISRG", "ZBRA", "BRKS"],
     "ripple_logic": "协作机器人渗透率提升利好机器视觉、减速器、工业自动化及扫码识别硬件。"
   },
   "AMZN": {
     "sector": "Logistics / AWS",
     "kpi_to_watch": "AWS Capex / Warehouse Automation Spend",
-    "neighbors": ["SYNA", "TRMB", "FDX", "RIVN", "STG"],
+    "neighbors": ["SYNA", "TRMB", "FDX", "RIVN", "GXO"],
     "ripple_logic": "物流自动化与云扩张利好传感器芯片、仓储机器人组件及第三方物流技术。"
   }
 }
